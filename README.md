@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+high-efficiency-image-file
+# High Efficiency Image Format (HEIF)
 
-Based on "ABC" at https://www.abc.com/
+Based on "High Efficiency Image File" at https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format
 
 ## 100 - Introduction
 
